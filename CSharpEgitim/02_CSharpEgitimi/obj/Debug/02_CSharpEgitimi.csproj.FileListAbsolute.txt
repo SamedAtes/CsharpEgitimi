@@ -1,0 +1,7 @@
+C:\Users\samed.ates\source\repos\CSharpEgitim\02_CSharpEgitimi\bin\Debug\02_CSharpEgitimi.exe.config
+C:\Users\samed.ates\source\repos\CSharpEgitim\02_CSharpEgitimi\bin\Debug\02_CSharpEgitimi.exe
+C:\Users\samed.ates\source\repos\CSharpEgitim\02_CSharpEgitimi\bin\Debug\02_CSharpEgitimi.pdb
+C:\Users\samed.ates\source\repos\CSharpEgitim\02_CSharpEgitimi\obj\Debug\02_CSharpEgitimi.csproj.AssemblyReference.cache
+C:\Users\samed.ates\source\repos\CSharpEgitim\02_CSharpEgitimi\obj\Debug\02_CSharpEgitimi.csproj.CoreCompileInputs.cache
+C:\Users\samed.ates\source\repos\CSharpEgitim\02_CSharpEgitimi\obj\Debug\02_CSharpEgitimi.exe
+C:\Users\samed.ates\source\repos\CSharpEgitim\02_CSharpEgitimi\obj\Debug\02_CSharpEgitimi.pdb
